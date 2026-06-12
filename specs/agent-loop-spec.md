@@ -131,6 +131,7 @@ for tool_call in assistant_message.tool_calls:
 ```
 [your answer here]
 ```
+End the loop if it runs more than 20 times.
 
 ---
 
